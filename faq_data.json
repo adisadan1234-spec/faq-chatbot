@@ -1,0 +1,50 @@
+[
+  {
+    "category": "Shipping",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping usually takes 3–5 business days. Once your order ships, we’ll email you a tracking link so you can follow its progress.",
+    "keywords": ["delivery", "shipping time", "arrive", "tracking", "when will my order get here"]
+  },
+  {
+    "category": "Shipping",
+    "question": "How can I track my order?",
+    "answer": "Use the tracking link in your shipping confirmation email. If you can’t find it, check your spam folder or contact support with your order number.",
+    "keywords": ["track", "tracking number", "where is my order", "shipment status", "delivery status"]
+  },
+  {
+    "category": "Returns",
+    "question": "What is your return policy?",
+    "answer": "Unused items can be returned within 30 days of delivery in their original packaging. Start a return by contacting support with your order number and the item you’d like to send back.",
+    "keywords": ["refund", "exchange", "send back", "return window", "return an item"]
+  },
+  {
+    "category": "Orders",
+    "question": "Can I change or cancel my order?",
+    "answer": "We can update or cancel an order before it ships. Contact support as soon as possible with your order number; shipped orders can be returned after delivery.",
+    "keywords": ["edit order", "cancel purchase", "change address", "modify", "stop order"]
+  },
+  {
+    "category": "Payments",
+    "question": "Which payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, American Express, PayPal, and Apple Pay. Your payment details are encrypted during checkout.",
+    "keywords": ["credit card", "debit card", "pay", "payment options", "checkout"]
+  },
+  {
+    "category": "Products",
+    "question": "Do you offer a warranty on products?",
+    "answer": "Most products include a one-year limited warranty covering manufacturing defects. Keep your receipt and contact support with your product name and order number to make a claim.",
+    "keywords": ["guarantee", "broken", "defect", "repair", "warranty claim"]
+  },
+  {
+    "category": "Support",
+    "question": "How do I contact customer support?",
+    "answer": "Our support team is available Monday to Friday, 9 a.m.–5 p.m. Eastern Time. Email help@example.com and include your order number so we can assist faster.",
+    "keywords": ["help", "contact", "email", "customer service", "talk to a person", "support hours"]
+  },
+  {
+    "category": "Orders",
+    "question": "Do you offer free shipping?",
+    "answer": "Yes. Standard shipping is free on orders over $50 within the continental United States. Orders below $50 show the shipping cost at checkout.",
+    "keywords": ["shipping cost", "delivery fee", "free delivery", "shipping charges", "over $50"]
+  }
+]
